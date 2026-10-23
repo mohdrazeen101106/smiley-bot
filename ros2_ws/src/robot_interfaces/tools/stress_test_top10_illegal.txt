@@ -1,0 +1,63 @@
+TOP 10 WORST ILLEGAL CONFIGS
+============================================================
+
+#1
+R1: [1, 2, 5]  R2: [4, 6, 9, 12]  Fake: 3
+Cost: 7.50  Path: 7  Turns: 4
+KFS Order: [4, 9]
+Path: [2, 1, 4, 7, 8, 11, 10]
+
+#2
+R1: [1, 2, 5]  R2: [6, 7, 9, 12]  Fake: 3
+Cost: 7.50  Path: 7  Turns: 4
+KFS Order: [7, 9]
+Path: [2, 1, 4, 7, 8, 11, 10]
+
+#3
+R1: [1, 2, 5]  R2: [6, 8, 9, 12]  Fake: 3
+Cost: 7.50  Path: 7  Turns: 3
+KFS Order: [8, 12]
+Path: [2, 1, 4, 7, 10, 11, 10]
+
+#4
+R1: [1, 2, 5]  R2: [6, 9, 10, 12]  Fake: 3
+Cost: 7.50  Path: 7  Turns: 3
+KFS Order: [9, 6]
+Path: [2, 1, 4, 7, 8, 9, 12]
+
+#5
+R1: [1, 2, 5]  R2: [6, 9, 11, 12]  Fake: 3
+Cost: 7.50  Path: 7  Turns: 3
+KFS Order: [9, 6]
+Path: [2, 1, 4, 7, 8, 9, 12]
+
+#6
+R1: [1, 2, 5]  R2: [3, 4, 7, 10]  Fake: 8
+Cost: 7.50  Path: 7  Turns: 2
+KFS Order: [3, 4]
+Path: [2, 1, 2, 3, 6, 9, 12]
+
+#7
+R1: [1, 2, 5]  R2: [3, 6, 9, 12]  Fake: 8
+Cost: 7.50  Path: 7  Turns: 2
+KFS Order: [3, 6]
+Path: [2, 3, 2, 1, 4, 7, 10]
+
+#8
+R1: [1, 2, 5]  R2: [3, 6, 9, 11]  Fake: 10
+Cost: 7.50  Path: 7  Turns: 2
+KFS Order: [3, 6]
+Path: [2, 3, 2, 1, 4, 7, 10]
+
+#9
+R1: [1, 2, 5]  R2: [3, 6, 9, 12]  Fake: 10
+Cost: 7.50  Path: 7  Turns: 2
+KFS Order: [3, 6]
+Path: [2, 3, 2, 1, 4, 7, 10]
+
+#10
+R1: [1, 2, 5]  R2: [3, 4, 7, 10]  Fake: 11
+Cost: 7.50  Path: 7  Turns: 2
+KFS Order: [3, 4]
+Path: [2, 1, 2, 3, 6, 9, 12]
+

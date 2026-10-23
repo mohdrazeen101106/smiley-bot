@@ -1,0 +1,35 @@
+{
+  "total_tested": 138600,
+  "legal_solvable": 75600,
+  "illegal_solvable": 61708,
+  "unsolvable": 1292,
+  "illegal_using_drop": 958,
+  "worst_legal": {
+    "r1": [
+      1,
+      2,
+      4
+    ],
+    "r2": [
+      3,
+      6,
+      9,
+      12
+    ],
+    "fake": 5
+  },
+  "worst_illegal": {
+    "r1": [
+      1,
+      2,
+      5
+    ],
+    "r2": [
+      4,
+      6,
+      9,
+      12
+    ],
+    "fake": 3
+  }
+}

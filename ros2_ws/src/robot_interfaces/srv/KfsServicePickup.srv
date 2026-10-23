@@ -1,0 +1,5 @@
+int32 bot_status          
+int32 pickupstate # -1 for lower and 1 for upper pickupstates
+int32 target_height
+---
+int32 response

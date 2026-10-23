@@ -1,0 +1,4 @@
+int32 bot_status
+int32 climb_mode
+---
+int16 success

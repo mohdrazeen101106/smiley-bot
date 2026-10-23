@@ -1,0 +1,4 @@
+float32 lidar_front
+float32 lidar_back
+float32 lidar_left
+float32 lidar_right

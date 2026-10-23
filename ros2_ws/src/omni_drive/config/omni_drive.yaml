@@ -1,0 +1,21 @@
+/joy_to_velocity:
+  ros__parameters:
+    joy_topic: /joy
+    velocity_topic: /cmd_vel
+
+    axis_forward: 1 # Left stick y axis
+    axis_lateral: 0 # Left stick x axis
+    forward_sign: 1.0 # Useful for directly inverting direction
+    lateral_sign: 1.0
+
+    yaw_input_mode: buttons
+    yaw_left_button: -1
+    yaw_right_button: -1
+    axis_yaw: 6
+    yaw_sign: 1.0
+
+    deadman_button: 4 # Left shoulder button (LB)
+    require_deadman: true
+    deadzone: 0.05
+    joy_timeout: 0.25
+    publish_rate: 50.0

@@ -1,0 +1,23 @@
+🔥 THE ABSOLUTE WORST CASE 🔥
+============================================================
+
+Configuration:
+  R1 KFS: Blocks [1, 2, 4]
+  R2 KFS: Blocks [3, 6, 9, 12]
+  Fake:   Block 5
+
+Metrics:
+  Cost:        7.50
+  Path Length: 7
+  Turns:       2
+  R1 to Clear: [1, 2, 4]
+
+Route:
+  Pick KFS: Blocks [3, 6]
+  Path:     [2, 3, 2, 1, 4, 7, 10]
+
+Grid Layout:
+  [1] [2] [3]
+  [4] [5] [6]
+  [7] [8] [9]
+  [10][11][12]

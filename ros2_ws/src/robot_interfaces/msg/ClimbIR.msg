@@ -1,0 +1,2 @@
+int16 front_wheel
+int16 back_wheel

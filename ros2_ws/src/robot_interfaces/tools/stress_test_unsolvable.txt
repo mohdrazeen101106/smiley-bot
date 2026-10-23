@@ -1,0 +1,3879 @@
+UNSOLVABLE CONFIGURATIONS (1292 total)
+============================================================
+
+#1: R1=[1, 2, 5] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#2: R1=[1, 2, 5] R2=[3, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#3: R1=[1, 2, 5] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#4: R1=[1, 2, 5] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#5: R1=[1, 2, 5] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#6: R1=[1, 2, 5] R2=[3, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#7: R1=[1, 2, 5] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#8: R1=[1, 2, 5] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#9: R1=[1, 2, 5] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#10: R1=[1, 2, 5] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#11: R1=[1, 2, 5] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#12: R1=[1, 2, 5] R2=[3, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#13: R1=[1, 2, 5] R2=[3, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#14: R1=[1, 2, 5] R2=[3, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#15: R1=[1, 2, 5] R2=[3, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#16: R1=[1, 2, 5] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#17: R1=[1, 2, 5] R2=[3, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#18: R1=[1, 2, 5] R2=[3, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#19: R1=[1, 2, 5] R2=[3, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#20: R1=[1, 2, 5] R2=[3, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#21: R1=[1, 2, 8] R2=[3, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#22: R1=[1, 2, 8] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#23: R1=[1, 2, 8] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#24: R1=[1, 2, 8] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#25: R1=[1, 2, 8] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#26: R1=[1, 2, 8] R2=[3, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#27: R1=[1, 2, 8] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#28: R1=[1, 2, 8] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#29: R1=[1, 2, 8] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#30: R1=[1, 2, 8] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#31: R1=[1, 2, 8] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#32: R1=[1, 2, 8] R2=[3, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#33: R1=[1, 2, 8] R2=[3, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#34: R1=[1, 2, 8] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#35: R1=[1, 3, 5] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#36: R1=[1, 3, 5] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#37: R1=[1, 3, 5] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#38: R1=[1, 3, 5] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#39: R1=[1, 3, 5] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#40: R1=[1, 3, 5] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#41: R1=[1, 3, 5] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#42: R1=[1, 3, 5] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#43: R1=[1, 3, 5] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#44: R1=[1, 3, 5] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#45: R1=[1, 3, 5] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#46: R1=[1, 3, 5] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#47: R1=[1, 3, 5] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#48: R1=[1, 3, 5] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#49: R1=[1, 3, 5] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#50: R1=[1, 3, 5] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#51: R1=[1, 3, 5] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#52: R1=[1, 3, 5] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#53: R1=[1, 3, 5] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#54: R1=[1, 3, 5] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#55: R1=[1, 3, 8] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#56: R1=[1, 3, 8] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#57: R1=[1, 3, 8] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#58: R1=[1, 3, 8] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#59: R1=[1, 3, 8] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#60: R1=[1, 3, 8] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#61: R1=[1, 3, 8] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#62: R1=[1, 3, 8] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#63: R1=[1, 3, 8] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#64: R1=[1, 3, 8] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#65: R1=[1, 3, 8] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#66: R1=[1, 3, 8] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#67: R1=[1, 3, 8] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#68: R1=[1, 3, 8] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#69: R1=[1, 4, 5] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#70: R1=[1, 4, 5] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#71: R1=[1, 4, 5] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#72: R1=[1, 4, 5] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#73: R1=[1, 4, 5] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#74: R1=[1, 4, 8] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#75: R1=[1, 4, 8] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#76: R1=[1, 4, 8] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#77: R1=[1, 4, 8] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#78: R1=[1, 4, 8] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#79: R1=[1, 5, 6] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#80: R1=[1, 5, 6] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#81: R1=[1, 5, 6] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#82: R1=[1, 5, 6] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#83: R1=[1, 5, 6] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#84: R1=[1, 5, 6] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#85: R1=[1, 5, 6] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#86: R1=[1, 5, 6] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#87: R1=[1, 5, 6] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#88: R1=[1, 5, 6] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#89: R1=[1, 5, 7] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#90: R1=[1, 5, 7] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#91: R1=[1, 5, 7] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#92: R1=[1, 5, 7] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#93: R1=[1, 5, 7] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#94: R1=[1, 5, 8] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#95: R1=[1, 5, 8] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#96: R1=[1, 5, 8] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#97: R1=[1, 5, 8] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#98: R1=[1, 5, 8] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#99: R1=[1, 5, 8] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#100: R1=[1, 5, 8] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#101: R1=[1, 5, 8] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#102: R1=[1, 5, 8] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#103: R1=[1, 5, 8] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#104: R1=[1, 5, 8] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#105: R1=[1, 5, 8] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#106: R1=[1, 5, 8] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#107: R1=[1, 5, 8] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#108: R1=[1, 5, 8] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#109: R1=[1, 5, 8] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#110: R1=[1, 5, 8] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#111: R1=[1, 5, 8] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#112: R1=[1, 5, 8] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#113: R1=[1, 5, 8] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#114: R1=[1, 5, 8] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#115: R1=[1, 5, 8] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#116: R1=[1, 5, 8] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#117: R1=[1, 5, 8] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#118: R1=[1, 5, 8] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#119: R1=[1, 5, 9] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#120: R1=[1, 5, 9] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#121: R1=[1, 5, 9] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#122: R1=[1, 5, 9] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#123: R1=[1, 5, 9] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#124: R1=[1, 5, 9] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#125: R1=[1, 5, 9] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#126: R1=[1, 5, 9] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#127: R1=[1, 5, 9] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#128: R1=[1, 5, 9] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#129: R1=[1, 5, 10] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#130: R1=[1, 5, 10] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#131: R1=[1, 5, 10] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#132: R1=[1, 5, 10] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#133: R1=[1, 5, 10] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#134: R1=[1, 5, 10] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#135: R1=[1, 5, 10] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#136: R1=[1, 5, 10] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#137: R1=[1, 5, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#138: R1=[1, 5, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#139: R1=[1, 5, 10] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#140: R1=[1, 5, 10] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#141: R1=[1, 5, 10] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#142: R1=[1, 5, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#143: R1=[1, 5, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#144: R1=[1, 5, 10] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#145: R1=[1, 5, 10] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#146: R1=[1, 5, 10] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#147: R1=[1, 5, 10] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#148: R1=[1, 5, 10] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#149: R1=[1, 5, 10] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#150: R1=[1, 5, 10] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#151: R1=[1, 5, 10] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#152: R1=[1, 5, 10] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#153: R1=[1, 5, 10] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#154: R1=[1, 5, 11] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#155: R1=[1, 5, 11] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#156: R1=[1, 5, 11] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#157: R1=[1, 5, 11] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#158: R1=[1, 5, 11] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#159: R1=[1, 5, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#160: R1=[1, 5, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#161: R1=[1, 5, 11] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#162: R1=[1, 5, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#163: R1=[1, 5, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#164: R1=[1, 5, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#165: R1=[1, 5, 11] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#166: R1=[1, 5, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#167: R1=[1, 5, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#168: R1=[1, 5, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#169: R1=[1, 5, 11] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#170: R1=[1, 5, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#171: R1=[1, 5, 11] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#172: R1=[1, 5, 11] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#173: R1=[1, 5, 11] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#174: R1=[1, 5, 11] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#175: R1=[1, 5, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#176: R1=[1, 5, 11] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#177: R1=[1, 5, 11] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#178: R1=[1, 5, 11] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#179: R1=[1, 5, 12] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#180: R1=[1, 5, 12] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#181: R1=[1, 5, 12] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#182: R1=[1, 5, 12] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#183: R1=[1, 5, 12] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#184: R1=[1, 5, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#185: R1=[1, 5, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#186: R1=[1, 5, 12] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#187: R1=[1, 5, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#188: R1=[1, 5, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#189: R1=[1, 5, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#190: R1=[1, 5, 12] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#191: R1=[1, 5, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#192: R1=[1, 5, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#193: R1=[1, 5, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#194: R1=[1, 5, 12] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#195: R1=[1, 5, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#196: R1=[1, 5, 12] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#197: R1=[1, 5, 12] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#198: R1=[1, 5, 12] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#199: R1=[1, 5, 12] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#200: R1=[1, 5, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#201: R1=[1, 5, 12] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#202: R1=[1, 5, 12] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#203: R1=[1, 5, 12] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#204: R1=[1, 6, 8] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#205: R1=[1, 6, 8] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#206: R1=[1, 6, 8] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#207: R1=[1, 6, 8] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#208: R1=[1, 6, 8] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#209: R1=[1, 7, 8] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#210: R1=[1, 7, 8] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#211: R1=[1, 7, 8] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#212: R1=[1, 7, 8] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#213: R1=[1, 7, 8] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#214: R1=[1, 8, 9] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#215: R1=[1, 8, 9] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#216: R1=[1, 8, 9] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#217: R1=[1, 8, 9] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#218: R1=[1, 8, 9] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#219: R1=[1, 8, 10] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#220: R1=[1, 8, 10] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#221: R1=[1, 8, 10] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#222: R1=[1, 8, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#223: R1=[1, 8, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#224: R1=[1, 8, 10] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#225: R1=[1, 8, 10] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#226: R1=[1, 8, 10] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#227: R1=[1, 8, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#228: R1=[1, 8, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#229: R1=[1, 8, 10] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#230: R1=[1, 8, 10] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#231: R1=[1, 8, 10] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#232: R1=[1, 8, 10] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#233: R1=[1, 8, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#234: R1=[1, 8, 11] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#235: R1=[1, 8, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#236: R1=[1, 8, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#237: R1=[1, 8, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#238: R1=[1, 8, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#239: R1=[1, 8, 11] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#240: R1=[1, 8, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#241: R1=[1, 8, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#242: R1=[1, 8, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#243: R1=[1, 8, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#244: R1=[1, 8, 11] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#245: R1=[1, 8, 11] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#246: R1=[1, 8, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#247: R1=[1, 8, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#248: R1=[1, 8, 12] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#249: R1=[1, 8, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#250: R1=[1, 8, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#251: R1=[1, 8, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#252: R1=[1, 8, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#253: R1=[1, 8, 12] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#254: R1=[1, 8, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#255: R1=[1, 8, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#256: R1=[1, 8, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#257: R1=[1, 8, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#258: R1=[1, 8, 12] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#259: R1=[1, 8, 12] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#260: R1=[1, 8, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#261: R1=[2, 3, 5] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#262: R1=[2, 3, 5] R2=[1, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#263: R1=[2, 3, 5] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#264: R1=[2, 3, 5] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#265: R1=[2, 3, 5] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#266: R1=[2, 3, 5] R2=[1, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#267: R1=[2, 3, 5] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#268: R1=[2, 3, 5] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#269: R1=[2, 3, 5] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#270: R1=[2, 3, 5] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#271: R1=[2, 3, 5] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#272: R1=[2, 3, 5] R2=[1, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#273: R1=[2, 3, 5] R2=[1, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#274: R1=[2, 3, 5] R2=[1, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#275: R1=[2, 3, 5] R2=[1, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#276: R1=[2, 3, 5] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#277: R1=[2, 3, 5] R2=[1, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#278: R1=[2, 3, 5] R2=[1, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#279: R1=[2, 3, 5] R2=[1, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#280: R1=[2, 3, 5] R2=[1, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#281: R1=[2, 3, 8] R2=[1, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#282: R1=[2, 3, 8] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#283: R1=[2, 3, 8] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#284: R1=[2, 3, 8] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#285: R1=[2, 3, 8] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#286: R1=[2, 3, 8] R2=[1, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#287: R1=[2, 3, 8] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#288: R1=[2, 3, 8] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#289: R1=[2, 3, 8] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#290: R1=[2, 3, 8] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#291: R1=[2, 3, 8] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#292: R1=[2, 3, 8] R2=[1, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#293: R1=[2, 3, 8] R2=[1, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#294: R1=[2, 3, 8] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#295: R1=[2, 4, 5] R2=[3, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#296: R1=[2, 4, 5] R2=[3, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#297: R1=[2, 4, 5] R2=[3, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#298: R1=[2, 4, 5] R2=[3, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#299: R1=[2, 4, 5] R2=[3, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#300: R1=[2, 4, 5] R2=[1, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#301: R1=[2, 4, 5] R2=[1, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#302: R1=[2, 4, 5] R2=[1, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#303: R1=[2, 4, 5] R2=[1, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#304: R1=[2, 4, 5] R2=[1, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#305: R1=[2, 4, 5] R2=[3, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#306: R1=[2, 4, 5] R2=[3, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#307: R1=[2, 4, 5] R2=[3, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#308: R1=[2, 4, 5] R2=[3, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#309: R1=[2, 4, 8] R2=[1, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#310: R1=[2, 4, 8] R2=[1, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#311: R1=[2, 4, 8] R2=[1, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#312: R1=[2, 4, 8] R2=[1, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#313: R1=[2, 4, 8] R2=[1, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#314: R1=[2, 4, 8] R2=[3, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#315: R1=[2, 4, 8] R2=[3, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#316: R1=[2, 4, 8] R2=[3, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#317: R1=[2, 4, 8] R2=[3, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#318: R1=[2, 5, 6] R2=[1, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#319: R1=[2, 5, 6] R2=[1, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#320: R1=[2, 5, 6] R2=[1, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#321: R1=[2, 5, 6] R2=[1, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#322: R1=[2, 5, 6] R2=[1, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#323: R1=[2, 5, 6] R2=[1, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#324: R1=[2, 5, 6] R2=[1, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#325: R1=[2, 5, 6] R2=[1, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#326: R1=[2, 5, 6] R2=[1, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#327: R1=[2, 5, 6] R2=[1, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#328: R1=[2, 5, 6] R2=[3, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#329: R1=[2, 5, 6] R2=[3, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#330: R1=[2, 5, 6] R2=[3, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#331: R1=[2, 5, 6] R2=[3, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#332: R1=[2, 5, 7] R2=[3, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#333: R1=[2, 5, 7] R2=[3, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#334: R1=[2, 5, 7] R2=[3, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#335: R1=[2, 5, 7] R2=[3, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#336: R1=[2, 5, 7] R2=[3, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#337: R1=[2, 5, 7] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#338: R1=[2, 5, 7] R2=[1, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#339: R1=[2, 5, 7] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#340: R1=[2, 5, 7] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#341: R1=[2, 5, 7] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#342: R1=[2, 5, 7] R2=[3, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#343: R1=[2, 5, 7] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#344: R1=[2, 5, 7] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#345: R1=[2, 5, 7] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#346: R1=[2, 5, 8] R2=[3, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#347: R1=[2, 5, 8] R2=[3, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#348: R1=[2, 5, 8] R2=[3, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#349: R1=[2, 5, 8] R2=[3, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#350: R1=[2, 5, 8] R2=[3, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#351: R1=[2, 5, 8] R2=[1, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#352: R1=[2, 5, 8] R2=[1, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#353: R1=[2, 5, 8] R2=[1, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#354: R1=[2, 5, 8] R2=[1, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#355: R1=[2, 5, 8] R2=[1, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#356: R1=[2, 5, 8] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#357: R1=[2, 5, 8] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#358: R1=[2, 5, 8] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#359: R1=[2, 5, 8] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#360: R1=[2, 5, 8] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#361: R1=[2, 5, 8] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#362: R1=[2, 5, 8] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#363: R1=[2, 5, 8] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#364: R1=[2, 5, 8] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#365: R1=[2, 5, 8] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#366: R1=[2, 5, 8] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#367: R1=[2, 5, 8] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#368: R1=[2, 5, 8] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#369: R1=[2, 5, 8] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#370: R1=[2, 5, 8] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#371: R1=[2, 5, 8] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#372: R1=[2, 5, 8] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#373: R1=[2, 5, 8] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#374: R1=[2, 5, 8] R2=[1, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#375: R1=[2, 5, 8] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#376: R1=[2, 5, 8] R2=[1, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#377: R1=[2, 5, 8] R2=[1, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#378: R1=[2, 5, 8] R2=[1, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#379: R1=[2, 5, 8] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#380: R1=[2, 5, 8] R2=[3, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#381: R1=[2, 5, 8] R2=[3, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#382: R1=[2, 5, 8] R2=[3, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#383: R1=[2, 5, 8] R2=[1, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#384: R1=[2, 5, 8] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#385: R1=[2, 5, 8] R2=[1, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#386: R1=[2, 5, 8] R2=[1, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#387: R1=[2, 5, 8] R2=[1, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#388: R1=[2, 5, 8] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#389: R1=[2, 5, 8] R2=[3, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#390: R1=[2, 5, 8] R2=[3, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#391: R1=[2, 5, 8] R2=[3, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#392: R1=[2, 5, 9] R2=[1, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#393: R1=[2, 5, 9] R2=[1, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#394: R1=[2, 5, 9] R2=[1, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#395: R1=[2, 5, 9] R2=[1, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#396: R1=[2, 5, 9] R2=[1, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#397: R1=[2, 5, 9] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#398: R1=[2, 5, 9] R2=[1, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#399: R1=[2, 5, 9] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#400: R1=[2, 5, 9] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#401: R1=[2, 5, 9] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#402: R1=[2, 5, 9] R2=[3, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#403: R1=[2, 5, 9] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#404: R1=[2, 5, 9] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#405: R1=[2, 5, 9] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#406: R1=[2, 5, 10] R2=[3, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#407: R1=[2, 5, 10] R2=[3, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#408: R1=[2, 5, 10] R2=[3, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#409: R1=[2, 5, 10] R2=[3, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#410: R1=[2, 5, 10] R2=[3, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#411: R1=[2, 5, 10] R2=[1, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#412: R1=[2, 5, 10] R2=[1, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#413: R1=[2, 5, 10] R2=[1, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#414: R1=[2, 5, 10] R2=[1, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#415: R1=[2, 5, 10] R2=[1, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#416: R1=[2, 5, 10] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#417: R1=[2, 5, 10] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#418: R1=[2, 5, 10] R2=[1, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#419: R1=[2, 5, 10] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#420: R1=[2, 5, 10] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#421: R1=[2, 5, 10] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#422: R1=[2, 5, 10] R2=[3, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#423: R1=[2, 5, 10] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#424: R1=[2, 5, 10] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#425: R1=[2, 5, 10] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#426: R1=[2, 5, 10] R2=[1, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#427: R1=[2, 5, 10] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#428: R1=[2, 5, 10] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#429: R1=[2, 5, 10] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#430: R1=[2, 5, 10] R2=[3, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#431: R1=[2, 5, 10] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#432: R1=[2, 5, 10] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#433: R1=[2, 5, 10] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#434: R1=[2, 5, 10] R2=[1, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#435: R1=[2, 5, 10] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#436: R1=[2, 5, 10] R2=[1, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#437: R1=[2, 5, 10] R2=[1, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#438: R1=[2, 5, 10] R2=[1, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#439: R1=[2, 5, 10] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#440: R1=[2, 5, 10] R2=[3, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#441: R1=[2, 5, 10] R2=[3, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#442: R1=[2, 5, 10] R2=[3, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#443: R1=[2, 5, 10] R2=[1, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#444: R1=[2, 5, 10] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#445: R1=[2, 5, 10] R2=[1, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#446: R1=[2, 5, 10] R2=[1, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#447: R1=[2, 5, 10] R2=[1, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#448: R1=[2, 5, 10] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#449: R1=[2, 5, 10] R2=[3, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#450: R1=[2, 5, 10] R2=[3, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#451: R1=[2, 5, 10] R2=[3, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#452: R1=[2, 5, 11] R2=[3, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#453: R1=[2, 5, 11] R2=[3, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#454: R1=[2, 5, 11] R2=[3, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#455: R1=[2, 5, 11] R2=[3, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#456: R1=[2, 5, 11] R2=[3, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#457: R1=[2, 5, 11] R2=[1, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#458: R1=[2, 5, 11] R2=[1, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#459: R1=[2, 5, 11] R2=[1, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#460: R1=[2, 5, 11] R2=[1, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#461: R1=[2, 5, 11] R2=[1, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#462: R1=[2, 5, 11] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#463: R1=[2, 5, 11] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#464: R1=[2, 5, 11] R2=[1, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#465: R1=[2, 5, 11] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#466: R1=[2, 5, 11] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#467: R1=[2, 5, 11] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#468: R1=[2, 5, 11] R2=[3, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#469: R1=[2, 5, 11] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#470: R1=[2, 5, 11] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#471: R1=[2, 5, 11] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#472: R1=[2, 5, 11] R2=[1, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#473: R1=[2, 5, 11] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#474: R1=[2, 5, 11] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#475: R1=[2, 5, 11] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#476: R1=[2, 5, 11] R2=[3, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#477: R1=[2, 5, 11] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#478: R1=[2, 5, 11] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#479: R1=[2, 5, 11] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#480: R1=[2, 5, 11] R2=[1, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#481: R1=[2, 5, 11] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#482: R1=[2, 5, 11] R2=[1, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#483: R1=[2, 5, 11] R2=[1, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#484: R1=[2, 5, 11] R2=[1, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#485: R1=[2, 5, 11] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#486: R1=[2, 5, 11] R2=[3, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#487: R1=[2, 5, 11] R2=[3, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#488: R1=[2, 5, 11] R2=[3, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#489: R1=[2, 5, 11] R2=[1, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#490: R1=[2, 5, 11] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#491: R1=[2, 5, 11] R2=[1, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#492: R1=[2, 5, 11] R2=[1, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#493: R1=[2, 5, 11] R2=[1, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#494: R1=[2, 5, 11] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#495: R1=[2, 5, 11] R2=[3, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#496: R1=[2, 5, 11] R2=[3, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#497: R1=[2, 5, 11] R2=[3, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#498: R1=[2, 5, 12] R2=[3, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#499: R1=[2, 5, 12] R2=[3, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#500: R1=[2, 5, 12] R2=[3, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#501: R1=[2, 5, 12] R2=[3, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#502: R1=[2, 5, 12] R2=[3, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#503: R1=[2, 5, 12] R2=[1, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#504: R1=[2, 5, 12] R2=[1, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#505: R1=[2, 5, 12] R2=[1, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#506: R1=[2, 5, 12] R2=[1, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#507: R1=[2, 5, 12] R2=[1, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#508: R1=[2, 5, 12] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#509: R1=[2, 5, 12] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#510: R1=[2, 5, 12] R2=[1, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#511: R1=[2, 5, 12] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#512: R1=[2, 5, 12] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#513: R1=[2, 5, 12] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#514: R1=[2, 5, 12] R2=[3, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#515: R1=[2, 5, 12] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#516: R1=[2, 5, 12] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#517: R1=[2, 5, 12] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#518: R1=[2, 5, 12] R2=[1, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#519: R1=[2, 5, 12] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#520: R1=[2, 5, 12] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#521: R1=[2, 5, 12] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#522: R1=[2, 5, 12] R2=[3, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#523: R1=[2, 5, 12] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#524: R1=[2, 5, 12] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#525: R1=[2, 5, 12] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#526: R1=[2, 5, 12] R2=[1, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#527: R1=[2, 5, 12] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#528: R1=[2, 5, 12] R2=[1, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#529: R1=[2, 5, 12] R2=[1, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#530: R1=[2, 5, 12] R2=[1, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#531: R1=[2, 5, 12] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#532: R1=[2, 5, 12] R2=[3, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#533: R1=[2, 5, 12] R2=[3, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#534: R1=[2, 5, 12] R2=[3, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#535: R1=[2, 5, 12] R2=[1, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#536: R1=[2, 5, 12] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#537: R1=[2, 5, 12] R2=[1, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#538: R1=[2, 5, 12] R2=[1, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#539: R1=[2, 5, 12] R2=[1, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#540: R1=[2, 5, 12] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#541: R1=[2, 5, 12] R2=[3, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#542: R1=[2, 5, 12] R2=[3, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#543: R1=[2, 5, 12] R2=[3, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#544: R1=[2, 6, 8] R2=[1, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#545: R1=[2, 6, 8] R2=[1, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#546: R1=[2, 6, 8] R2=[1, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#547: R1=[2, 6, 8] R2=[1, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#548: R1=[2, 6, 8] R2=[1, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#549: R1=[2, 6, 8] R2=[3, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#550: R1=[2, 6, 8] R2=[3, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#551: R1=[2, 6, 8] R2=[3, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#552: R1=[2, 6, 8] R2=[3, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#553: R1=[2, 7, 8] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#554: R1=[2, 7, 8] R2=[1, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#555: R1=[2, 7, 8] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#556: R1=[2, 7, 8] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#557: R1=[2, 7, 8] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#558: R1=[2, 7, 8] R2=[3, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#559: R1=[2, 7, 8] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#560: R1=[2, 7, 8] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#561: R1=[2, 7, 8] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#562: R1=[2, 8, 9] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#563: R1=[2, 8, 9] R2=[1, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#564: R1=[2, 8, 9] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#565: R1=[2, 8, 9] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#566: R1=[2, 8, 9] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#567: R1=[2, 8, 9] R2=[3, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#568: R1=[2, 8, 9] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#569: R1=[2, 8, 9] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#570: R1=[2, 8, 9] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#571: R1=[2, 8, 10] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#572: R1=[2, 8, 10] R2=[1, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#573: R1=[2, 8, 10] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#574: R1=[2, 8, 10] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#575: R1=[2, 8, 10] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#576: R1=[2, 8, 10] R2=[3, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#577: R1=[2, 8, 10] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#578: R1=[2, 8, 10] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#579: R1=[2, 8, 10] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#580: R1=[2, 8, 10] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#581: R1=[2, 8, 10] R2=[1, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#582: R1=[2, 8, 10] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#583: R1=[2, 8, 10] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#584: R1=[2, 8, 10] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#585: R1=[2, 8, 10] R2=[3, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#586: R1=[2, 8, 10] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#587: R1=[2, 8, 10] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#588: R1=[2, 8, 10] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#589: R1=[2, 8, 10] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#590: R1=[2, 8, 10] R2=[1, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#591: R1=[2, 8, 10] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#592: R1=[2, 8, 10] R2=[3, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#593: R1=[2, 8, 10] R2=[1, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#594: R1=[2, 8, 10] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#595: R1=[2, 8, 10] R2=[3, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#596: R1=[2, 8, 10] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#597: R1=[2, 8, 11] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#598: R1=[2, 8, 11] R2=[1, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#599: R1=[2, 8, 11] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#600: R1=[2, 8, 11] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#601: R1=[2, 8, 11] R2=[1, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#602: R1=[2, 8, 11] R2=[3, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#603: R1=[2, 8, 11] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#604: R1=[2, 8, 11] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#605: R1=[2, 8, 11] R2=[3, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#606: R1=[2, 8, 11] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#607: R1=[2, 8, 11] R2=[1, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#608: R1=[2, 8, 11] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#609: R1=[2, 8, 11] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#610: R1=[2, 8, 11] R2=[1, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#611: R1=[2, 8, 11] R2=[3, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#612: R1=[2, 8, 11] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#613: R1=[2, 8, 11] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#614: R1=[2, 8, 11] R2=[3, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#615: R1=[2, 8, 11] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#616: R1=[2, 8, 11] R2=[1, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#617: R1=[2, 8, 11] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#618: R1=[2, 8, 11] R2=[3, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#619: R1=[2, 8, 11] R2=[1, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#620: R1=[2, 8, 11] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#621: R1=[2, 8, 11] R2=[3, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#622: R1=[2, 8, 11] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#623: R1=[2, 8, 12] R2=[1, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#624: R1=[2, 8, 12] R2=[1, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#625: R1=[2, 8, 12] R2=[1, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#626: R1=[2, 8, 12] R2=[1, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#627: R1=[2, 8, 12] R2=[1, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#628: R1=[2, 8, 12] R2=[3, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#629: R1=[2, 8, 12] R2=[3, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#630: R1=[2, 8, 12] R2=[3, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#631: R1=[2, 8, 12] R2=[3, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#632: R1=[2, 8, 12] R2=[1, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#633: R1=[2, 8, 12] R2=[1, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#634: R1=[2, 8, 12] R2=[1, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#635: R1=[2, 8, 12] R2=[1, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#636: R1=[2, 8, 12] R2=[1, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#637: R1=[2, 8, 12] R2=[3, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#638: R1=[2, 8, 12] R2=[3, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#639: R1=[2, 8, 12] R2=[3, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#640: R1=[2, 8, 12] R2=[3, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#641: R1=[2, 8, 12] R2=[1, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#642: R1=[2, 8, 12] R2=[1, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#643: R1=[2, 8, 12] R2=[3, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#644: R1=[2, 8, 12] R2=[3, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#645: R1=[2, 8, 12] R2=[1, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#646: R1=[2, 8, 12] R2=[1, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#647: R1=[2, 8, 12] R2=[3, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#648: R1=[2, 8, 12] R2=[3, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#649: R1=[3, 4, 5] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#650: R1=[3, 4, 5] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#651: R1=[3, 4, 5] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#652: R1=[3, 4, 5] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#653: R1=[3, 4, 5] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#654: R1=[3, 4, 5] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#655: R1=[3, 4, 5] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#656: R1=[3, 4, 5] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#657: R1=[3, 4, 5] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#658: R1=[3, 4, 5] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#659: R1=[3, 4, 8] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#660: R1=[3, 4, 8] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#661: R1=[3, 4, 8] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#662: R1=[3, 4, 8] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#663: R1=[3, 4, 8] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#664: R1=[3, 5, 6] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#665: R1=[3, 5, 6] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#666: R1=[3, 5, 6] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#667: R1=[3, 5, 6] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#668: R1=[3, 5, 6] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#669: R1=[3, 5, 7] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#670: R1=[3, 5, 7] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#671: R1=[3, 5, 7] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#672: R1=[3, 5, 7] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#673: R1=[3, 5, 7] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#674: R1=[3, 5, 7] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#675: R1=[3, 5, 7] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#676: R1=[3, 5, 7] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#677: R1=[3, 5, 7] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#678: R1=[3, 5, 7] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#679: R1=[3, 5, 8] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#680: R1=[3, 5, 8] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#681: R1=[3, 5, 8] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#682: R1=[3, 5, 8] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#683: R1=[3, 5, 8] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#684: R1=[3, 5, 8] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#685: R1=[3, 5, 8] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#686: R1=[3, 5, 8] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#687: R1=[3, 5, 8] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#688: R1=[3, 5, 8] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#689: R1=[3, 5, 8] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#690: R1=[3, 5, 8] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#691: R1=[3, 5, 8] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#692: R1=[3, 5, 8] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#693: R1=[3, 5, 8] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#694: R1=[3, 5, 8] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#695: R1=[3, 5, 8] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#696: R1=[3, 5, 8] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#697: R1=[3, 5, 8] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#698: R1=[3, 5, 8] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#699: R1=[3, 5, 8] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#700: R1=[3, 5, 8] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#701: R1=[3, 5, 8] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#702: R1=[3, 5, 8] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#703: R1=[3, 5, 8] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#704: R1=[3, 5, 9] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#705: R1=[3, 5, 9] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#706: R1=[3, 5, 9] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#707: R1=[3, 5, 9] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#708: R1=[3, 5, 9] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#709: R1=[3, 5, 10] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#710: R1=[3, 5, 10] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#711: R1=[3, 5, 10] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#712: R1=[3, 5, 10] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#713: R1=[3, 5, 10] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#714: R1=[3, 5, 10] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#715: R1=[3, 5, 10] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#716: R1=[3, 5, 10] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#717: R1=[3, 5, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#718: R1=[3, 5, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#719: R1=[3, 5, 10] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#720: R1=[3, 5, 10] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#721: R1=[3, 5, 10] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#722: R1=[3, 5, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#723: R1=[3, 5, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#724: R1=[3, 5, 10] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#725: R1=[3, 5, 10] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#726: R1=[3, 5, 10] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#727: R1=[3, 5, 10] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#728: R1=[3, 5, 10] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#729: R1=[3, 5, 10] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#730: R1=[3, 5, 10] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#731: R1=[3, 5, 10] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#732: R1=[3, 5, 10] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#733: R1=[3, 5, 10] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#734: R1=[3, 5, 11] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#735: R1=[3, 5, 11] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#736: R1=[3, 5, 11] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#737: R1=[3, 5, 11] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#738: R1=[3, 5, 11] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#739: R1=[3, 5, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#740: R1=[3, 5, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#741: R1=[3, 5, 11] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#742: R1=[3, 5, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#743: R1=[3, 5, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#744: R1=[3, 5, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#745: R1=[3, 5, 11] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#746: R1=[3, 5, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#747: R1=[3, 5, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#748: R1=[3, 5, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#749: R1=[3, 5, 11] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#750: R1=[3, 5, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#751: R1=[3, 5, 11] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#752: R1=[3, 5, 11] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#753: R1=[3, 5, 11] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#754: R1=[3, 5, 11] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#755: R1=[3, 5, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#756: R1=[3, 5, 11] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#757: R1=[3, 5, 11] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#758: R1=[3, 5, 11] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#759: R1=[3, 5, 12] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#760: R1=[3, 5, 12] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#761: R1=[3, 5, 12] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#762: R1=[3, 5, 12] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#763: R1=[3, 5, 12] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#764: R1=[3, 5, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#765: R1=[3, 5, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#766: R1=[3, 5, 12] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#767: R1=[3, 5, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#768: R1=[3, 5, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#769: R1=[3, 5, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#770: R1=[3, 5, 12] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#771: R1=[3, 5, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#772: R1=[3, 5, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#773: R1=[3, 5, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#774: R1=[3, 5, 12] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#775: R1=[3, 5, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#776: R1=[3, 5, 12] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#777: R1=[3, 5, 12] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#778: R1=[3, 5, 12] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#779: R1=[3, 5, 12] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#780: R1=[3, 5, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#781: R1=[3, 5, 12] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#782: R1=[3, 5, 12] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#783: R1=[3, 5, 12] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#784: R1=[3, 6, 8] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#785: R1=[3, 6, 8] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#786: R1=[3, 6, 8] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#787: R1=[3, 6, 8] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#788: R1=[3, 6, 8] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#789: R1=[3, 7, 8] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#790: R1=[3, 7, 8] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#791: R1=[3, 7, 8] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#792: R1=[3, 7, 8] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#793: R1=[3, 7, 8] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#794: R1=[3, 8, 9] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#795: R1=[3, 8, 9] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#796: R1=[3, 8, 9] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#797: R1=[3, 8, 9] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#798: R1=[3, 8, 9] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#799: R1=[3, 8, 10] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#800: R1=[3, 8, 10] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#801: R1=[3, 8, 10] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#802: R1=[3, 8, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#803: R1=[3, 8, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#804: R1=[3, 8, 10] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#805: R1=[3, 8, 10] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#806: R1=[3, 8, 10] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#807: R1=[3, 8, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#808: R1=[3, 8, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#809: R1=[3, 8, 10] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#810: R1=[3, 8, 10] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#811: R1=[3, 8, 10] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#812: R1=[3, 8, 10] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#813: R1=[3, 8, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#814: R1=[3, 8, 11] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#815: R1=[3, 8, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#816: R1=[3, 8, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#817: R1=[3, 8, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#818: R1=[3, 8, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#819: R1=[3, 8, 11] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#820: R1=[3, 8, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#821: R1=[3, 8, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#822: R1=[3, 8, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#823: R1=[3, 8, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#824: R1=[3, 8, 11] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#825: R1=[3, 8, 11] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#826: R1=[3, 8, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#827: R1=[3, 8, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#828: R1=[3, 8, 12] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#829: R1=[3, 8, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#830: R1=[3, 8, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#831: R1=[3, 8, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#832: R1=[3, 8, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#833: R1=[3, 8, 12] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#834: R1=[3, 8, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#835: R1=[3, 8, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#836: R1=[3, 8, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#837: R1=[3, 8, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#838: R1=[3, 8, 12] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#839: R1=[3, 8, 12] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#840: R1=[3, 8, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#841: R1=[4, 5, 7] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#842: R1=[4, 5, 7] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#843: R1=[4, 5, 7] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#844: R1=[4, 5, 7] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#845: R1=[4, 5, 7] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#846: R1=[4, 5, 8] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#847: R1=[4, 5, 8] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#848: R1=[4, 5, 8] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#849: R1=[4, 5, 8] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#850: R1=[4, 5, 8] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#851: R1=[4, 5, 8] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#852: R1=[4, 5, 8] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#853: R1=[4, 5, 8] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#854: R1=[4, 5, 8] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#855: R1=[4, 5, 8] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#856: R1=[4, 5, 10] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#857: R1=[4, 5, 10] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#858: R1=[4, 5, 10] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#859: R1=[4, 5, 10] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#860: R1=[4, 5, 10] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#861: R1=[4, 5, 10] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#862: R1=[4, 5, 10] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#863: R1=[4, 5, 10] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#864: R1=[4, 5, 10] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#865: R1=[4, 5, 10] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#866: R1=[4, 5, 11] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#867: R1=[4, 5, 11] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#868: R1=[4, 5, 11] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#869: R1=[4, 5, 11] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#870: R1=[4, 5, 11] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#871: R1=[4, 5, 11] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#872: R1=[4, 5, 11] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#873: R1=[4, 5, 11] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#874: R1=[4, 5, 11] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#875: R1=[4, 5, 11] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#876: R1=[4, 5, 12] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#877: R1=[4, 5, 12] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#878: R1=[4, 5, 12] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#879: R1=[4, 5, 12] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#880: R1=[4, 5, 12] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#881: R1=[4, 5, 12] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#882: R1=[4, 5, 12] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#883: R1=[4, 5, 12] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#884: R1=[4, 5, 12] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#885: R1=[4, 5, 12] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#886: R1=[4, 8, 10] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#887: R1=[4, 8, 10] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#888: R1=[4, 8, 10] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#889: R1=[4, 8, 10] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#890: R1=[4, 8, 10] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#891: R1=[4, 8, 11] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#892: R1=[4, 8, 11] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#893: R1=[4, 8, 11] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#894: R1=[4, 8, 11] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#895: R1=[4, 8, 11] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#896: R1=[4, 8, 12] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#897: R1=[4, 8, 12] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#898: R1=[4, 8, 12] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#899: R1=[4, 8, 12] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#900: R1=[4, 8, 12] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#901: R1=[5, 6, 8] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#902: R1=[5, 6, 8] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#903: R1=[5, 6, 8] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#904: R1=[5, 6, 8] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#905: R1=[5, 6, 8] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#906: R1=[5, 6, 8] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#907: R1=[5, 6, 8] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#908: R1=[5, 6, 8] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#909: R1=[5, 6, 8] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#910: R1=[5, 6, 8] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#911: R1=[5, 6, 9] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#912: R1=[5, 6, 9] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#913: R1=[5, 6, 9] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#914: R1=[5, 6, 9] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#915: R1=[5, 6, 9] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#916: R1=[5, 6, 10] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#917: R1=[5, 6, 10] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#918: R1=[5, 6, 10] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#919: R1=[5, 6, 10] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#920: R1=[5, 6, 10] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#921: R1=[5, 6, 10] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#922: R1=[5, 6, 10] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#923: R1=[5, 6, 10] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#924: R1=[5, 6, 10] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#925: R1=[5, 6, 10] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#926: R1=[5, 6, 11] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#927: R1=[5, 6, 11] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#928: R1=[5, 6, 11] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#929: R1=[5, 6, 11] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#930: R1=[5, 6, 11] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#931: R1=[5, 6, 11] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#932: R1=[5, 6, 11] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#933: R1=[5, 6, 11] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#934: R1=[5, 6, 11] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#935: R1=[5, 6, 11] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#936: R1=[5, 6, 12] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#937: R1=[5, 6, 12] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#938: R1=[5, 6, 12] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#939: R1=[5, 6, 12] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#940: R1=[5, 6, 12] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#941: R1=[5, 6, 12] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#942: R1=[5, 6, 12] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#943: R1=[5, 6, 12] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#944: R1=[5, 6, 12] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#945: R1=[5, 6, 12] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#946: R1=[5, 7, 8] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#947: R1=[5, 7, 8] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#948: R1=[5, 7, 8] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#949: R1=[5, 7, 8] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#950: R1=[5, 7, 8] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#951: R1=[5, 7, 8] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#952: R1=[5, 7, 8] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#953: R1=[5, 7, 8] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#954: R1=[5, 7, 8] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#955: R1=[5, 7, 8] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#956: R1=[5, 7, 10] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#957: R1=[5, 7, 10] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#958: R1=[5, 7, 10] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#959: R1=[5, 7, 10] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#960: R1=[5, 7, 10] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#961: R1=[5, 7, 10] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#962: R1=[5, 7, 10] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#963: R1=[5, 7, 10] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#964: R1=[5, 7, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#965: R1=[5, 7, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#966: R1=[5, 7, 11] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#967: R1=[5, 7, 11] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#968: R1=[5, 7, 11] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#969: R1=[5, 7, 11] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#970: R1=[5, 7, 11] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#971: R1=[5, 7, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#972: R1=[5, 7, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#973: R1=[5, 7, 11] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#974: R1=[5, 7, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#975: R1=[5, 7, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#976: R1=[5, 7, 12] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#977: R1=[5, 7, 12] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#978: R1=[5, 7, 12] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#979: R1=[5, 7, 12] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#980: R1=[5, 7, 12] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#981: R1=[5, 7, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#982: R1=[5, 7, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#983: R1=[5, 7, 12] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#984: R1=[5, 7, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#985: R1=[5, 7, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#986: R1=[5, 8, 9] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#987: R1=[5, 8, 9] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#988: R1=[5, 8, 9] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#989: R1=[5, 8, 9] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#990: R1=[5, 8, 9] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#991: R1=[5, 8, 9] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#992: R1=[5, 8, 9] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#993: R1=[5, 8, 9] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#994: R1=[5, 8, 9] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#995: R1=[5, 8, 9] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#996: R1=[5, 8, 10] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#997: R1=[5, 8, 10] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#998: R1=[5, 8, 10] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#999: R1=[5, 8, 10] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1000: R1=[5, 8, 10] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1001: R1=[5, 8, 10] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1002: R1=[5, 8, 10] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1003: R1=[5, 8, 10] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1004: R1=[5, 8, 10] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1005: R1=[5, 8, 10] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1006: R1=[5, 8, 10] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1007: R1=[5, 8, 10] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1008: R1=[5, 8, 10] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1009: R1=[5, 8, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1010: R1=[5, 8, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1011: R1=[5, 8, 10] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1012: R1=[5, 8, 10] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1013: R1=[5, 8, 10] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1014: R1=[5, 8, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1015: R1=[5, 8, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1016: R1=[5, 8, 10] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1017: R1=[5, 8, 10] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1018: R1=[5, 8, 10] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1019: R1=[5, 8, 10] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1020: R1=[5, 8, 10] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1021: R1=[5, 8, 10] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1022: R1=[5, 8, 10] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1023: R1=[5, 8, 10] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1024: R1=[5, 8, 10] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1025: R1=[5, 8, 10] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1026: R1=[5, 8, 11] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1027: R1=[5, 8, 11] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1028: R1=[5, 8, 11] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1029: R1=[5, 8, 11] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1030: R1=[5, 8, 11] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1031: R1=[5, 8, 11] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1032: R1=[5, 8, 11] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1033: R1=[5, 8, 11] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1034: R1=[5, 8, 11] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1035: R1=[5, 8, 11] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1036: R1=[5, 8, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1037: R1=[5, 8, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1038: R1=[5, 8, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1039: R1=[5, 8, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1040: R1=[5, 8, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1041: R1=[5, 8, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1042: R1=[5, 8, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1043: R1=[5, 8, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1044: R1=[5, 8, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1045: R1=[5, 8, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1046: R1=[5, 8, 11] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1047: R1=[5, 8, 11] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1048: R1=[5, 8, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1049: R1=[5, 8, 11] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1050: R1=[5, 8, 11] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1051: R1=[5, 8, 11] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1052: R1=[5, 8, 11] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1053: R1=[5, 8, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1054: R1=[5, 8, 11] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1055: R1=[5, 8, 11] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1056: R1=[5, 8, 12] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1057: R1=[5, 8, 12] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1058: R1=[5, 8, 12] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1059: R1=[5, 8, 12] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1060: R1=[5, 8, 12] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1061: R1=[5, 8, 12] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1062: R1=[5, 8, 12] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1063: R1=[5, 8, 12] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1064: R1=[5, 8, 12] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1065: R1=[5, 8, 12] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1066: R1=[5, 8, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1067: R1=[5, 8, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1068: R1=[5, 8, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1069: R1=[5, 8, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1070: R1=[5, 8, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1071: R1=[5, 8, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1072: R1=[5, 8, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1073: R1=[5, 8, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1074: R1=[5, 8, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1075: R1=[5, 8, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1076: R1=[5, 8, 12] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1077: R1=[5, 8, 12] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1078: R1=[5, 8, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1079: R1=[5, 8, 12] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1080: R1=[5, 8, 12] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1081: R1=[5, 8, 12] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1082: R1=[5, 8, 12] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1083: R1=[5, 8, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1084: R1=[5, 8, 12] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1085: R1=[5, 8, 12] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1086: R1=[5, 9, 10] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1087: R1=[5, 9, 10] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1088: R1=[5, 9, 10] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1089: R1=[5, 9, 10] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1090: R1=[5, 9, 10] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1091: R1=[5, 9, 10] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1092: R1=[5, 9, 10] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1093: R1=[5, 9, 10] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1094: R1=[5, 9, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1095: R1=[5, 9, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1096: R1=[5, 9, 11] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1097: R1=[5, 9, 11] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1098: R1=[5, 9, 11] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1099: R1=[5, 9, 11] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1100: R1=[5, 9, 11] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1101: R1=[5, 9, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1102: R1=[5, 9, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1103: R1=[5, 9, 11] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1104: R1=[5, 9, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1105: R1=[5, 9, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1106: R1=[5, 9, 12] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1107: R1=[5, 9, 12] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1108: R1=[5, 9, 12] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1109: R1=[5, 9, 12] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1110: R1=[5, 9, 12] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1111: R1=[5, 9, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1112: R1=[5, 9, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1113: R1=[5, 9, 12] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1114: R1=[5, 9, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1115: R1=[5, 9, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1116: R1=[5, 10, 11] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1117: R1=[5, 10, 11] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1118: R1=[5, 10, 11] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1119: R1=[5, 10, 11] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1120: R1=[5, 10, 11] R2=[2, 6, 9, 12] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1121: R1=[5, 10, 11] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1122: R1=[5, 10, 11] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1123: R1=[5, 10, 11] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1124: R1=[5, 10, 11] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1125: R1=[5, 10, 11] R2=[2, 4, 7, 12] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1126: R1=[5, 10, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1127: R1=[5, 10, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1128: R1=[5, 10, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1129: R1=[5, 10, 11] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1130: R1=[5, 10, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1131: R1=[5, 10, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1132: R1=[5, 10, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1133: R1=[5, 10, 11] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1134: R1=[5, 10, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1135: R1=[5, 10, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1136: R1=[5, 10, 11] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1137: R1=[5, 10, 11] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1138: R1=[5, 10, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1139: R1=[5, 10, 11] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1140: R1=[5, 10, 11] R2=[2, 6, 9, 12] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1141: R1=[5, 10, 11] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1142: R1=[5, 10, 11] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1143: R1=[5, 10, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1144: R1=[5, 10, 11] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1145: R1=[5, 10, 11] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1146: R1=[5, 10, 12] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1147: R1=[5, 10, 12] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1148: R1=[5, 10, 12] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1149: R1=[5, 10, 12] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1150: R1=[5, 10, 12] R2=[2, 6, 9, 11] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1151: R1=[5, 10, 12] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1152: R1=[5, 10, 12] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1153: R1=[5, 10, 12] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1154: R1=[5, 10, 12] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1155: R1=[5, 10, 12] R2=[2, 4, 7, 11] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1156: R1=[5, 10, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1157: R1=[5, 10, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1158: R1=[5, 10, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1159: R1=[5, 10, 12] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1160: R1=[5, 10, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1161: R1=[5, 10, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1162: R1=[5, 10, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1163: R1=[5, 10, 12] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1164: R1=[5, 10, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1165: R1=[5, 10, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1166: R1=[5, 10, 12] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1167: R1=[5, 10, 12] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1168: R1=[5, 10, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1169: R1=[5, 10, 12] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1170: R1=[5, 10, 12] R2=[2, 6, 9, 11] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1171: R1=[5, 10, 12] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1172: R1=[5, 10, 12] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1173: R1=[5, 10, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1174: R1=[5, 10, 12] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1175: R1=[5, 10, 12] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1176: R1=[5, 11, 12] R2=[2, 3, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1177: R1=[5, 11, 12] R2=[2, 4, 6, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1178: R1=[5, 11, 12] R2=[2, 6, 7, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1179: R1=[5, 11, 12] R2=[2, 6, 8, 9] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1180: R1=[5, 11, 12] R2=[2, 6, 9, 10] Fake=1 [ILLEGAL]
+     Error: No valid route found!
+
+#1181: R1=[5, 11, 12] R2=[1, 2, 4, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1182: R1=[5, 11, 12] R2=[2, 4, 6, 7] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1183: R1=[5, 11, 12] R2=[2, 4, 7, 8] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1184: R1=[5, 11, 12] R2=[2, 4, 7, 9] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1185: R1=[5, 11, 12] R2=[2, 4, 7, 10] Fake=3 [ILLEGAL]
+     Error: No valid route found!
+
+#1186: R1=[5, 11, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1187: R1=[5, 11, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1188: R1=[5, 11, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1189: R1=[5, 11, 12] R2=[2, 6, 8, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1190: R1=[5, 11, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1191: R1=[5, 11, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1192: R1=[5, 11, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1193: R1=[5, 11, 12] R2=[2, 4, 7, 8] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1194: R1=[5, 11, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1195: R1=[5, 11, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1196: R1=[5, 11, 12] R2=[1, 2, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1197: R1=[5, 11, 12] R2=[2, 3, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1198: R1=[5, 11, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1199: R1=[5, 11, 12] R2=[2, 6, 8, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1200: R1=[5, 11, 12] R2=[2, 6, 9, 10] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1201: R1=[5, 11, 12] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1202: R1=[5, 11, 12] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1203: R1=[5, 11, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1204: R1=[5, 11, 12] R2=[2, 4, 7, 8] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1205: R1=[5, 11, 12] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1206: R1=[6, 8, 10] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1207: R1=[6, 8, 10] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1208: R1=[6, 8, 10] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1209: R1=[6, 8, 10] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1210: R1=[6, 8, 10] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1211: R1=[6, 8, 11] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1212: R1=[6, 8, 11] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1213: R1=[6, 8, 11] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1214: R1=[6, 8, 11] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1215: R1=[6, 8, 11] R2=[2, 4, 7, 12] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1216: R1=[6, 8, 12] R2=[1, 2, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1217: R1=[6, 8, 12] R2=[2, 3, 4, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1218: R1=[6, 8, 12] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1219: R1=[6, 8, 12] R2=[2, 4, 7, 10] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1220: R1=[6, 8, 12] R2=[2, 4, 7, 11] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1221: R1=[7, 8, 10] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1222: R1=[7, 8, 10] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1223: R1=[7, 8, 10] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1224: R1=[7, 8, 10] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1225: R1=[7, 8, 10] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1226: R1=[7, 8, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1227: R1=[7, 8, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1228: R1=[7, 8, 11] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1229: R1=[7, 8, 11] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1230: R1=[7, 8, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1231: R1=[7, 8, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1232: R1=[7, 8, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1233: R1=[7, 8, 12] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1234: R1=[7, 8, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1235: R1=[7, 8, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1236: R1=[8, 9, 10] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1237: R1=[8, 9, 10] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1238: R1=[8, 9, 10] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1239: R1=[8, 9, 10] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1240: R1=[8, 9, 10] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1241: R1=[8, 9, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1242: R1=[8, 9, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1243: R1=[8, 9, 11] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1244: R1=[8, 9, 11] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1245: R1=[8, 9, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1246: R1=[8, 9, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1247: R1=[8, 9, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1248: R1=[8, 9, 12] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1249: R1=[8, 9, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1250: R1=[8, 9, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1251: R1=[8, 10, 11] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1252: R1=[8, 10, 11] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1253: R1=[8, 10, 11] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1254: R1=[8, 10, 11] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1255: R1=[8, 10, 11] R2=[2, 6, 9, 12] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1256: R1=[8, 10, 11] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1257: R1=[8, 10, 11] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1258: R1=[8, 10, 11] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1259: R1=[8, 10, 11] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1260: R1=[8, 10, 11] R2=[2, 4, 7, 12] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1261: R1=[8, 10, 11] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1262: R1=[8, 10, 11] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1263: R1=[8, 10, 11] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1264: R1=[8, 10, 11] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1265: R1=[8, 10, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1266: R1=[8, 10, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1267: R1=[8, 10, 12] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1268: R1=[8, 10, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1269: R1=[8, 10, 12] R2=[2, 6, 9, 11] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1270: R1=[8, 10, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1271: R1=[8, 10, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1272: R1=[8, 10, 12] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1273: R1=[8, 10, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1274: R1=[8, 10, 12] R2=[2, 4, 7, 11] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1275: R1=[8, 10, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1276: R1=[8, 10, 12] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1277: R1=[8, 10, 12] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1278: R1=[8, 10, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1279: R1=[8, 11, 12] R2=[1, 2, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1280: R1=[8, 11, 12] R2=[2, 3, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1281: R1=[8, 11, 12] R2=[2, 5, 6, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1282: R1=[8, 11, 12] R2=[2, 6, 7, 9] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1283: R1=[8, 11, 12] R2=[2, 6, 9, 10] Fake=4 [ILLEGAL]
+     Error: No valid route found!
+
+#1284: R1=[8, 11, 12] R2=[1, 2, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1285: R1=[8, 11, 12] R2=[2, 3, 4, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1286: R1=[8, 11, 12] R2=[2, 4, 5, 7] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1287: R1=[8, 11, 12] R2=[2, 4, 7, 9] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1288: R1=[8, 11, 12] R2=[2, 4, 7, 10] Fake=6 [ILLEGAL]
+     Error: No valid route found!
+
+#1289: R1=[8, 11, 12] R2=[2, 4, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1290: R1=[8, 11, 12] R2=[2, 5, 6, 9] Fake=7 [ILLEGAL]
+     Error: No valid route found!
+
+#1291: R1=[8, 11, 12] R2=[2, 4, 5, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+
+#1292: R1=[8, 11, 12] R2=[2, 4, 6, 7] Fake=9 [ILLEGAL]
+     Error: No valid route found!
+

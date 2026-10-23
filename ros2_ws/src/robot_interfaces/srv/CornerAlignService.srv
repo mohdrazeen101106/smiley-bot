@@ -1,0 +1,4 @@
+int32 command
+string mode # right or left
+---
+int32 response

@@ -1,0 +1,63 @@
+TOP 10 WORST BY R1 TO CLEAR
+============================================================
+
+#1
+R1: [1, 2, 4]  R2: [3, 6, 7, 9]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 7]
+Path: [2, 1, 4, 7, 10]
+
+#2
+R1: [1, 2, 4]  R2: [3, 6, 8, 9]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 8]
+Path: [2, 1, 4, 7, 10]
+
+#3
+R1: [1, 2, 4]  R2: [3, 6, 9, 10]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 10]
+Path: [2, 1, 4, 7, 10]
+
+#4
+R1: [1, 2, 4]  R2: [3, 6, 9, 11]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 11]
+Path: [2, 1, 4, 7, 10]
+
+#5
+R1: [1, 2, 4]  R2: [3, 6, 9, 12]  Fake: 5
+Cost: 7.50  Path: 7  Turns: 2  R1Clear: [1, 2, 4]
+KFS Order: [3, 6]
+Path: [2, 3, 2, 1, 4, 7, 10]
+
+#6
+R1: [1, 2, 4]  R2: [3, 7, 8, 9]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 7]
+Path: [2, 1, 4, 7, 10]
+
+#7
+R1: [1, 2, 4]  R2: [3, 7, 8, 10]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 7]
+Path: [2, 1, 4, 7, 10]
+
+#8
+R1: [1, 2, 4]  R2: [3, 7, 8, 11]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 7]
+Path: [2, 1, 4, 7, 10]
+
+#9
+R1: [1, 2, 4]  R2: [3, 7, 8, 12]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 7]
+Path: [2, 1, 4, 7, 10]
+
+#10
+R1: [1, 2, 4]  R2: [3, 7, 9, 10]  Fake: 5
+Cost: 5.00  Path: 5  Turns: 1  R1Clear: [1, 2, 4]
+KFS Order: [3, 7]
+Path: [2, 1, 4, 7, 10]
+

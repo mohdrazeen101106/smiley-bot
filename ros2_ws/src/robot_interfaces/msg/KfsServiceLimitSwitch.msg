@@ -1,0 +1,2 @@
+int16 limit_switch_front
+int16 limit_switch_backs
