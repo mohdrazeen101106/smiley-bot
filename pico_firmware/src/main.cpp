@@ -17,11 +17,6 @@ static uint32_t lastValidCommandMs = 0;
 static bool haveValidCommand = false;
 static uint32_t invalidFrameCount = 0;
 
-static void enableDriver(const MotorPins &pins) {
-    digitalWrite(pins.r_en, HIGH);
-    digitalWrite(pins.l_en, HIGH);
-}
-
 static void setPwmLow(const MotorPins &pins) {
     analogWrite(pins.rpwm, 0);
     analogWrite(pins.lpwm, 0);
@@ -32,7 +27,6 @@ static void setPwmLow(const MotorPins &pins) {
 static void brakeMotor(size_t index) {
     const MotorPins &pins = MOTOR_PINS[index];
     setPwmLow(pins);
-    enableDriver(pins);
     motorState[index].activeDirection = 0;
     motorState[index].pendingDirection = 0;
     motorState[index].reversingWait = false;
@@ -76,7 +70,6 @@ static uint8_t commandToDuty(float value) {
 
 static void driveInDirection(size_t index, int8_t direction, uint8_t duty) {
     const MotorPins &pins = MOTOR_PINS[index];
-    enableDriver(pins);
     if (direction > 0) {
         analogWrite(pins.lpwm, 0);
         analogWrite(pins.rpwm, duty);
@@ -102,7 +95,6 @@ static void applyMotorCommand(size_t index, float command, uint32_t now) {
             state.reversingStartedAt = now;
         }
         setPwmLow(MOTOR_PINS[index]);
-        enableDriver(MOTOR_PINS[index]);
         if (static_cast<uint32_t>(now - state.reversingStartedAt) < DIRECTION_CHANGE_DEADTIME_MS) {
             return;
         }
@@ -115,7 +107,6 @@ static void applyMotorCommand(size_t index, float command, uint32_t now) {
         state.pendingDirection = requestedDirection;
         state.reversingStartedAt = now;
         setPwmLow(MOTOR_PINS[index]);
-        enableDriver(MOTOR_PINS[index]);
         return;
     }
 
@@ -135,10 +126,6 @@ void setup() {
         const MotorPins &pins = MOTOR_PINS[i];
         pinMode(pins.rpwm, OUTPUT);
         pinMode(pins.lpwm, OUTPUT);
-        pinMode(pins.r_en, OUTPUT);
-        pinMode(pins.l_en, OUTPUT);
-        digitalWrite(pins.r_en, LOW);
-        digitalWrite(pins.l_en, LOW);
         digitalWrite(pins.rpwm, LOW);
         digitalWrite(pins.lpwm, LOW);
     }

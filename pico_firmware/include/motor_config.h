@@ -6,18 +6,16 @@
 struct MotorPins {
     uint8_t rpwm;
     uint8_t lpwm;
-    uint8_t r_en;
-    uint8_t l_en;
     const char *name;
 };
 
 // Order is [front-left, front-right, rear-left, rear-right].
 // Do not use these GPIOs for another peripheral. All are valid PWM-capable RP2040 GPIOs.
 static constexpr MotorPins MOTOR_PINS[4] = {
-    {2,  3,  4,  5,  "FL"},
-    {6,  7,  8,  9,  "FR"},
-    {10, 11, 12, 13, "RL"},
-    {14, 15, 16, 17, "RR"},
+    {2,  3, "FL"},
+    {6,  7, "FR"},
+    {10, 11, "RL"},
+    {14, 15, "RR"},
 };
 
 // Standard X-drive mixer. Input is [vx=forward, vy=left, vw=CCW rotation].
